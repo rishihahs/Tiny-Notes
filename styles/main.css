@@ -1,0 +1,32 @@
+/** Edit this file to add CSS to TinyNotes **/
+
+#wrapper {
+}
+
+/* The note creation form */
+#create {
+}
+
+/* The note view form */
+#view {
+}
+
+/* The date */
+#view span #date {
+}
+
+/* The title */
+#view p #title {
+}
+
+/* The note */
+#view p #note {
+}
+
+/* The title heading */
+.heading {
+}
+
+/* The link to the note */
+a #notelink {
+}
